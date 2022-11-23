@@ -1,4 +1,3 @@
-[TOC]
 # Java_Algorithm
 
 一个刷算法的仓库
