@@ -7,6 +7,7 @@ package com.aloex.leetcode.easy;
  */
 public class test01 {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("demo 1");
+        System.out.println("demo 2");
     }
 }
