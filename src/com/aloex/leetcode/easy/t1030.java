@@ -5,7 +5,7 @@ package com.aloex.leetcode.easy;
  * @date: 2022/11/23 16:01
  * @description:
  */
-public class test01 {
+public class t1030 {
     public static void main(String[] args) {
         System.out.println("demo 1");
         System.out.println("demo 2");
